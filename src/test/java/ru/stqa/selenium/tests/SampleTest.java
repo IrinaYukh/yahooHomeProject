@@ -38,6 +38,7 @@ public class SampleTest extends TestBase {
     financePage.verifyRowValues("Jul 01, 2019", "364.88","365.23","353.32",
                                 "356.46","356.46", "6,409,600");
 
+
   }
 
 
